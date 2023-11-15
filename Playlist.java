@@ -1,6 +1,5 @@
 import java.util.ArrayList;
-//Fiona Tewolde
-// 501101135
+
 
 /*
  * A Playlist contains an array list of AudioContent (i.e. Song, AudioBooks, Podcasts) from the library
