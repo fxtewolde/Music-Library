@@ -1,6 +1,5 @@
 import java.util.ArrayList;
-//Fiona Tewolde
-// 501101135
+
 
 //For the seasons, instead of making methods, I just made the contents of the season public to obtain
 
