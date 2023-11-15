@@ -1,6 +1,5 @@
 import java.util.ArrayList;
-//Fiona Tewolde
-// 501101135
+
 public class Podcast extends AudioContent
 {
     public static final String TYPENAME =	"PODCAST";
