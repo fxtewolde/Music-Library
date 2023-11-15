@@ -1,8 +1,7 @@
 /*
  *  Audio Content contains information common to all types of audio (e.g. songs, audiobooks etc)
  */
-//Fiona Tewolde
-// 501101135
+
 
 abstract public class AudioContent
 {
