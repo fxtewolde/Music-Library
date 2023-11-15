@@ -2,8 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-//Fiona Tewolde
-// 501101135
+
 
 // Simulation of a Simple Text-based Music App (like Apple Music)
 
