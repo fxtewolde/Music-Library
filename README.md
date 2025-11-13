@@ -39,5 +39,5 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/MyAudio.git
+git clone https://github.com/fxtewolde/Music-Library.git
 
